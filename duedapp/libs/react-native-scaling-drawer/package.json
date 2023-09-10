@@ -1,0 +1,57 @@
+{
+  "_from": "react-native-scaling-drawer",
+  "_id": "react-native-scaling-drawer@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-91o1iDx7ud9pwanKWugx2UgzyFI=",
+  "_location": "/react-native-scaling-drawer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-scaling-drawer",
+    "name": "react-native-scaling-drawer",
+    "escapedName": "react-native-scaling-drawer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-scaling-drawer/-/react-native-scaling-drawer-1.0.1.tgz",
+  "_shasum": "f75a35883c7bb9df69c1a9ca5ae831d94833c852",
+  "_spec": "react-native-scaling-drawer",
+  "_where": "/Users/jedrzej/Codes/Dued/Apps/Dued",
+  "author": {
+    "name": "Melih Berberoğlu",
+    "email": "melihberberoglu@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/melihberberolu/react-native-scaling-drawer/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react-navigation": "^1.0.0-beta.3"
+  },
+  "deprecated": false,
+  "description": "react-native-scaling-drawer",
+  "homepage": "https://github.com/melihberberolu/react-native-scaling-drawer#readme",
+  "keywords": [
+    "React",
+    "React-Native",
+    "Scaling-Drawer",
+    "Drawer"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-scaling-drawer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melihberberolu/react-native-scaling-drawer.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}

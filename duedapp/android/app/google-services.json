@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "575892924150",
+    "project_id": "duedapp",
+    "storage_bucket": "duedapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575892924150:android:624e18abdc944830936ed7",
+        "android_client_info": {
+          "package_name": "co.uk.dued"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575892924150-uhopf779q2naj8oi3nmse7vkrvppfa2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk_3_Djhcso8gAY07DK_coL0dQXEVB9vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575892924150-uhopf779q2naj8oi3nmse7vkrvppfa2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "575892924150-1hablcr2oeeg6rgtaacugkgq4ra7e3kr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.dued"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
